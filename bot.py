@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import math
 
-bot = telebot.TeleBot('6244796995:AAHd9LHkSI9VtyAW7TnjigC8DqD--kQbJHE')
+bot = telebot.TeleBot('Enter your tg bot id')
 
 
 @bot.message_handler(commands=['start'])
